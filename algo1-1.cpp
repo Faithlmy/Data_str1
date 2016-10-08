@@ -18,6 +18,7 @@ void main()
 	printf("在主程中，调用函数fa之后，调用函数fb之前：n=%d\n", n);
 	fb(n);
 	printf("在主程中，调用函数fb之后：n=%d\n", n);
+	printf("git is nan");
 	system("pause");
 }
 
