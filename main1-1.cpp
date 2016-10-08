@@ -1,3 +1,5 @@
+
+/*
 // main1-1.cpp 检验基本操作bo1-1.h的主函数
 #include"c1.h" 
 // 以下两行可根据需要选其一（且只能选其一），而无须改变基本操作bo1-1.h
@@ -45,4 +47,5 @@ void main()
 	printf("销毁T后，T=%u\n", T);
 	system("pause");
 }
+*/
 
